@@ -1,0 +1,13 @@
+:root {
+    --color-background:#E5E5E5;
+    --color-background-nav:#9206E9;
+    --color-background-text:#F6F6F6;
+    --color-text-button:#B600EE;
+    --color-text-title:#FF5555;
+    --color-text:#424E59;
+  }
+
+  *{
+      font-family: Open Sans;
+      padding: 0%;
+  }
